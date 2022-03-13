@@ -1,6 +1,6 @@
 # Description
 
-Basic React project used to practice Docker. Created a CI/CD pipeline using Travis CI to AWS Elastic Beanstalk.
+Basic React project used to practice Docker. Created a CI/CD pipeline using Travis CI to deploy to AWS Elastic Beanstalk.
 
 
 
