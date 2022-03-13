@@ -1,3 +1,9 @@
+# Description
+
+Basic React project used to practice Docker. Created a CI/CD pipeline using Travis CI to AWS Elastic Beanstalk.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
